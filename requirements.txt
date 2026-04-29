@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+xgboost
+scikit-learn
+pymongo
+pandas
+numpy
+pydantic
+python-dotenv
+dnspython
